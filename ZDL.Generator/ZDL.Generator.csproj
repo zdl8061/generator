@@ -60,6 +60,9 @@
     <Reference Include="Txooo">
       <HintPath>..\..\..\TFS4.0\Txooo\Bin\Txooo.dll</HintPath>
     </Reference>
+    <Reference Include="Txooo, Version=4.0.0.0, Culture=neutral, PublicKeyToken=68ded59061f3b3be">
+      <HintPath>..\..\Bin\Txooo.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Form1.cs">
